@@ -1,0 +1,26 @@
+li,
+a,
+ul {
+  text-decoration: none;
+  text-decoration: none;
+}
+.container {
+  padding: 1200px;
+
+  margin-left: auto;
+  margin-right: auto;
+}
+.gorizontal-menu {
+  background-color: aqua;
+  width: 400px;
+  height: 500px;
+}
+
+.manu-navigation1 {
+  position: absolute;
+  width: 400px;
+  height: 500px;
+  background-color: blueviolet;
+}
+.manu1 {
+}
